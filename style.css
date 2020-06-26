@@ -4,5 +4,10 @@ body{
   background-color: #eee;
   line-height: 10px;
   width:100%;
+}
 
+.wrapper{
+  max-width: 960px;
+  margin:0 auto;
+  text-align: center;
 }
